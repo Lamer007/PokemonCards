@@ -13,7 +13,7 @@ const year = new Date().getFullYear();
             </RouterLink>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="https://github.com/Lamer007/PokemonPacks-Vue-SpringBoot" target="_blank">
+            <a class="nav-link" href="https://github.com/Lamer007/PokemonCards" target="_blank">
               <i class="fa-brands fa-github"></i>
             </a>
           </li>
